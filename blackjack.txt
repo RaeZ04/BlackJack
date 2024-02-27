@@ -1,0 +1,13 @@
+Ambos empiezan con 2 cartas, primero el jugador, luego el crupier. Las cartas del jugador se almacenan en un ¿? y las del crupier en otro ¿?
+Todo debera estar en un blucle while, que se rompa cuando o el jugador o el crupier pasen 21.
+El crupier siempre pedira hasta que llegue a 17 o mas, despues se plantara, a no ser que tengas mejor numero que el.
+Puedes pedir cartas hasta que te plantes, te pases o llegues a 21. El crupier siempre sacara otra carta despues de ti.
+Si las 2 primeras cartas suman blackjack, se gana automaticamente.
+
+
+
+
+Extras:
+
+- Dividir: Si las 2 primeras cartas tienen el mismo valor, puedes dividirlas en 2 manos independientes.
+- Doblar: Puedes doblar la apuesta justo despues de conseguir las 2 primeras cartas, despues, recibiras otra carta automaticamente y no podras pedir mas.
